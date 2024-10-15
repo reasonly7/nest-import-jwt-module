@@ -1,3 +1,7 @@
-# nest-scaffold
+# nest-import-jwt-module
 
-A nest project template I usually use（我平时使用的 NestJS 项目模版）
+Usage example of @nestjs/jwt（@nestjs/jwt 用法示例）
+
+See👀: [./src/jwt/importJwtModule.ts](./src/jwt/importJwtModule.ts)
+
+![](./preview.png)
